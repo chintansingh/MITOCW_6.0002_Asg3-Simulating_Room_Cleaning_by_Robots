@@ -535,9 +535,9 @@ def run_simulation(num_robots, speed, capacity, width, height, dirt_amount, min_
 
                 
             fraction_cleaned = room.get_num_cleaned_tiles()/room.get_num_tiles()
-         
-        
-    anim.done()    
+       
+        anim.done()    
+    
     return time_steps/num_trials 
             
         
