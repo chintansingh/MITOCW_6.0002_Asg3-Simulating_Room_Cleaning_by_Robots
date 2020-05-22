@@ -6,6 +6,5 @@ Concepts used:
 2. Random library functions
 3. Pylab animations for the robot's tile cleaning actions
 
-Screenshot of 10 robots cleaning a 10x10 empty (no furniture) room
-
+Screenshot of 10 robots cleaning a 12x8 empty (no furniture) room:
 ![](Capture.JPG)
